@@ -29,10 +29,10 @@
 <img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/amazon-merchant-price/image4.jpg" alt="Amazon merchant price screenshot" />
 
 ### C. Other Merchant Prices from Datafeedr and Viglink’s API
-<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/amazon-merchant-price/image6.jpg" alt="Amazon merchant price screenshot" />
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/amazon-merchant-price/image1.jpg" alt="Amazon API connector with Magento 2" />
 
 ### D. Displayed on Product Listing Page
-<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/amazon-merchant-price/image1.jpg" alt="Amazon API connector with Magento 2" />
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/amazon-merchant-price/image6.jpg" alt="Amazon merchant price screenshot" />
 
 ### E. Displayed on Product Page
 <img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/amazon-merchant-price/image7.jpg" alt="Amazon merchant price screenshot" />
